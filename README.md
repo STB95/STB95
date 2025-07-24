@@ -39,7 +39,7 @@
 <a href="https://github.com/yourusername/project1">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=neon" />
 </a>
-
+<br>
 ---
 
 ### 📈 GitHub Stats
@@ -48,14 +48,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=neon" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=neon" />
 </p>
-
+<br>
 ---
 
 ### 👨‍💼 Experience
 
 **Graduate student – HoGent** (2024–Present)  
 -see above the current subjects I'm learning
-
+<br>
 ---
 
 ### 🌐 Let's Connect

@@ -37,14 +37,14 @@
 ### 📌 Pinned Projects (coming soon)
 
 <a href="https://github.com/yourusername/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=neon" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=neon" />
 </a>
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=neon" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=neon" />
 </p>
@@ -65,5 +65,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.visitor-badge" alt="visitors" />
+  <img src="https://img.shields.io/github/stars/yourusername?style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="GitHub followers" />
 </p>
+

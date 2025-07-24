@@ -43,13 +43,6 @@
 
 ---
 
-### 👨‍💼 Experience
-
-**Graduate student – HoGent** (2024–Present)  
--see above the current subjects I'm learning
-<br>
----
-
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)

@@ -1,26 +1,69 @@
-<h2 align="left">Hi 👋! My name is  Sarah Turner Burkitt  and I'm a Programming graduate student, from Ghent,East-Flanders,Belgium.</h2>
+<h1 align="center">Hi there 👋, I'm Sarah!</h1>
+<h3 align="center">Programming graduate student</h3>
 
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=STB95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-    <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=STB95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🧑‍💻 About Me
 
-###
-<h2 align="left">You can contact me on </h2>
-<div align="left"> 
-  <a href="https://www.linkedin.com/in/1805STB95" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+- 🔭 I’m currently studying as a **Programming graduate student** at **Hogent Campus Mercator**
+- 🌱 I’m learning **C#,JS,TypeScript,Node.js,HTML/CSS,Powershell/CMD,DB-usage/SQL**
+- 📫 You can reach me by e-mail: [turnerb_sarah@hotmail.com]
+- ⚡ Fun fact: [I love gardening/DIY-ing/Travelling/Gaming/Working out]
 
-###
-<img align="left" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RpZjc0M2p4bWNqdmY4MHN6MngwNnkxcGJhcXNhZWRqdmxzOTU2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFkiFMDg3iFoI/giphy.gif"  />
+---
 
-###
+### 🛠️ Tech Stack
 
-<br clear="both">
+**Languages:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-###
+**Frameworks / Libraries:**  (soon)
+
+
+**Tools & Platforms:**  
+  **Cloud & Hosting:**
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure-devops&logoColor=white)
+  **Containerization:**
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  **Package Managers:**
+  ![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white)
+  **Developer Tools:**
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📌 Pinned Projects (coming soon)
+
+<a href="https://github.com/yourusername/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=neon" />
+</a>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=neon" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=neon" />
+</p>
+
+---
+
+### 👨‍💼 Experience
+
+**Graduate student – HoGent** (2024–Present)  
+-see above the current subjects I'm learning
+
+---
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.visitor-badge" alt="visitors" />
+</p>

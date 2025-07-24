@@ -24,13 +24,13 @@
 
 **Tools & Platforms:**  
   **Cloud & Hosting:**
-  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure-devops&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure-devops&logoColor=white) /n
   **Containerization:**
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) /n
   **Package Managers:**
-  ![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white)
+  ![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white) /n
   **Developer Tools:**
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) /n
 
 ---
 

@@ -34,24 +34,12 @@
 
 ---
 
-### 📌 Pinned Projects (coming soon)
-
-<a href="https://github.com/yourusername/project1">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=neon" />
-</a>
-
-<br>
-
----
-
 ### 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=neon" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=neon" />
 </p>
-
-<br>
 
 ---
 

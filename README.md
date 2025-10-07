@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently studying as a **Programming graduate student** at **Hogent Campus Mercator**
+- 🔭 I’m currently studying as a **Programming graduate student** at **Hogent**
 - 🌱 I’m learning **C#,JS,TypeScript,Node.js,HTML/CSS,Powershell/CMD,DB-usage/SQL**
 - 📫 You can reach me by e-mail: [turnerb_sarah@hotmail.com]
 - ⚡ Fun fact: [I love gardening/DIY-ing/Travelling/Gaming/Working out]

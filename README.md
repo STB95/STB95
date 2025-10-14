@@ -8,30 +8,37 @@
 - 🔭 I’m currently studying as a **Programming graduate student** at **Hogent**
 - 🌱 I’m learning **C#,JS,TypeScript,Node.js,HTML/CSS,Powershell/CMD,DB-usage/SQL**
 - 📫 You can reach me by e-mail: [turnerb_sarah@hotmail.com]
-- ⚡ Fun fact: [I love gardening/DIY-ing/Travelling/Gaming/Working out]
+- ⚡ Fun fact: I can build things (DIY-projects, ex. gardening house from scratch made out of euro-pallets)
 
 ---
 
 ### 🛠️ Tech Stack
+**Libraries (frontend):**
+![React](https://img.shields.io/badge/React-JS-61DAFB?logo=react&logoColor=white)
 
-**Languages:**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**Frameworks / Libraries:**  (soon)
-
-
-**Tools & Platforms:**  
-
-  **Cloud & Hosting:**
+**Frameworks:**
+ *Frontend:*
+ ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+ ![Vue](https://img.shields.io/badge/Vue-JS-4FC08D?logo=vue.js&logoColor=white)
+ ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
+ *Backend:*
+ ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+ ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+ 
+ **Cloud & Hosting:**
   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure-devops&logoColor=white) <br>
-  **Containerization:**
+ **Containerization:**
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) <br>
-  **Package Managers:**
+ **Package Managers:**
   ![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white) <br>
-  **Developer Tools:**
+ **Developer Tools:**
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) <br>
+ **Mobile/Cross-plaftorm:**
+ ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white)
+
+ **Databases/ORMs:**
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
 

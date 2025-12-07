@@ -60,5 +60,32 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/yourusername?style=social" alt="GitHub stars" />
   <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="GitHub followers" />
-</p>
+</p
+
+
+###
+ name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
+
+  ###
+  name: Compact display
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.achievements.compact.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_achievements: yes
+  plugin_achievements_only: >-
+    polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+    scripter, packager, explorer, infographile, manager
+  plugin_achievements_display: compact
+  plugin_achievements_threshold: X
+
+
 

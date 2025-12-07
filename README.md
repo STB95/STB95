@@ -42,13 +42,7 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=neon" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=neon" />
-</p>
-
+### 📈 GitHub Stats (coming soon)
 ---
 
 ### 🌐 Let's Connect

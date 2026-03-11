@@ -18,11 +18,8 @@
 
 **Frameworks:**
  *Frontend:*
- ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
- ![Vue](https://img.shields.io/badge/Vue-JS-4FC08D?logo=vue.js&logoColor=white)
  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
  *Backend:*
- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
  ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
  
  **Cloud & Hosting:**

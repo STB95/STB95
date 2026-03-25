@@ -4,10 +4,8 @@
 ---
 
 ### 🧑‍💻 About Me
-
 - 🔭 I’m currently studying as a **Programming graduate student** at **Hogent**
-- 🌱 I’m learning **C#,JS,TypeScript,Node.js,HTML/CSS,Powershell/CMD,DB-usage/SQL**
-- 📫 You can reach me by e-mail: [turnerb_sarah@hotmail.com]
+- 📫 You can reach me via e-mail: [turnerb_sarah@hotmail.com]
 - ⚡ Fun fact: I can build things (DIY-projects, ex. gardening house from scratch made out of euro-pallets)
 
 ---

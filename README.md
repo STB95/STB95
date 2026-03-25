@@ -36,9 +36,9 @@
  **Databases/ORMs:**
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
- ![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?logo=microsoftazure&logoColor=white)
- ![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?logo=microsoftazure&logoColor=white)
- ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?logo=microsoftazure&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?logo=microsoftazure&logoColor=white)
+![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?logo=microsoftazure&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?logo=microsoftazure&logoColor=white)
 
 ---
 

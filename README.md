@@ -37,6 +37,7 @@
   ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white)  
  **Developer Tools:**
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
   ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
@@ -69,8 +70,4 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/yourusername?style=social" alt="GitHub stars" />
   <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="GitHub followers" />
-</p
-
----
-
-
+</p>

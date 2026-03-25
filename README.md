@@ -28,8 +28,8 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) <br>
  **Package Managers:**
   ![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white) <br>
-  ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
-  ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white)
+  ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)  <br>
+  ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white)  <br>
  **Developer Tools:**
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) <br>
  **Mobile/Cross-plaftorm:**

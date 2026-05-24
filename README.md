@@ -3,13 +3,13 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 ABOUT ME
 - 🔭 I’m currently studying as a **Programming graduate student** at **Hogent**
 - 📫 You can reach me via e-mail: [turnerb_sarah@hotmail.com]
 - ⚡ Fun fact: I can build things (DIY-projects, ex. gardening house from scratch made out of euro-pallets)
 
 ---
-### 🛠️ Tech Stack
+### 🛠️ TECH STACK
 **Libraries (frontend):**
 ![React](https://img.shields.io/badge/React-JS-61DAFB?logo=react&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)

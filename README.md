@@ -63,7 +63,7 @@
  **Testing:**
  ![xUnit](https://img.shields.io/badge/xUnit-5C2D91?logo=.net&logoColor=white)
 
-### 🌐 Let's Connect
+### 🌐 LETS CONNECT
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/1stb95)
 ---
 

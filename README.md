@@ -1,5 +1,5 @@
 
-### 🛠️ TECH STACK
+### TECH STACK
 **Libraries (frontend):**
 ![React](https://img.shields.io/badge/React-JS-61DAFB?logo=react&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)

@@ -1,14 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sarah!</h1>
-<h3 align="center">Programming graduate student</h3>
 
----
-
-### 🧑‍💻 ABOUT ME
-- 🔭 I’m currently studying as a **Programming graduate student** at **Hogent**
-- 📫 You can reach me via e-mail: [turnerb_sarah@hotmail.com]
-- ⚡ Fun fact: I can build things (DIY-projects, ex. gardening house from scratch made out of euro-pallets)
-
----
 ### 🛠️ TECH STACK
 **Libraries (frontend):**
 ![React](https://img.shields.io/badge/React-JS-61DAFB?logo=react&logoColor=white)
@@ -62,12 +52,3 @@
 
  **Testing:**
  ![xUnit](https://img.shields.io/badge/xUnit-5C2D91?logo=.net&logoColor=white)
-
-### 🌐 LETS CONNECT
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/1stb95)
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername?style=social" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=social" alt="GitHub followers" />
-</p>
